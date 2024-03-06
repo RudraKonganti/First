@@ -1,0 +1,1 @@
+<h1>Your Account Closed SuccessfullY..........</h1>
